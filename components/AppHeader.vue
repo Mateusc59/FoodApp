@@ -35,6 +35,5 @@ h1 {
   letter-spacing: 0.03em;
   line-height: 1;
   text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.8);
-  margin-bottom: 105px;
 }
 </style>
